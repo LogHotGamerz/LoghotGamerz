@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzloghotxd&label=Profile%20views&color=0e75b6&style=flat" alt="itzloghotxd" /> </p>
 
-- 🔭 I’m currently working on **Sethomes-v1.1.1**
+- 🔭 I’m currently working on **[Primium] One Piece plugin for minecraft**
 
 - 🌱 I’m currently learning **Java**
 
