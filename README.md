@@ -29,10 +29,9 @@
   Ethereum (ETH) Address: 0xE842deFED402339F77637e95cD09d7b3820630ac
 </p>
 <p align="left">
-  Bitcoin (BTC) Address: bc1qgarxwpp4rn3y5h8hwmhc6a5cpwzqqu3p5pun07
-  Litecoin (LTC) Address: LaHYbGK3ysnGQyC8PNmrFkZu3xvDfFQg14
-  Ethereum (ETH) Address: 0xE842deFED402339F77637e95cD09d7b3820630ac
   Solana (SOL) Address: HcXwLbebt7mvjc69we8jnQtBGSAcB9U5rnbAMQeRAdSD
+</p>
+<p align="left">
   Dogecoin (DOGE) Address: DKgToq8vnBHTgik3iQnm3r3r4mnqvXy4Um
 </p>
 
